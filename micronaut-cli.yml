@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.sgaraba
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, asciidoctor, config-kubernetes, data, data-jpa, dekorate-kubernetes, github-workflow-docker-registry, graphql, hibernate-jpa, http-client, java, java-application, jdbc-hikari, jib, junit, kubernetes, liquibase, logback, management, maven, mockito, netty-server, openapi, postgres, reactor, reactor-http-client, readme, shade, testcontainers, yaml]
